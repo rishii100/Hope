@@ -51,7 +51,7 @@ Hope integrates **AI, blockchain, and decentralized verification** to provide a 
 ### 🚀 Setup Instructions  
 1️⃣ **Clone the Repository:**  
 ```sh
-git clone https://github.com/Team-Krishn/Hope.git
+https://github.com/rishii100/Hope.git
 cd Hope
 ```
 2️⃣ **Install Dependencies:**  
