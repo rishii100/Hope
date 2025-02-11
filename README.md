@@ -43,8 +43,13 @@ Hope integrates **AI, blockchain, and decentralized verification** to provide a 
 
 
 ## 🖥️ Application Mockups  
-🚀 *A glimpse into Hope’s user experience!*  
-{:format :pointed-dict, :data [{#uuid "eeda0d05-6ab8-442b-ba6d-26c49dd54bc8" {:entity-type :block, :coords {:y-start 0.24097904230230643, :x-start 0.04582852059642676, :x-end 0.722821059718282, :y-end 0.9428677664257733}, :original-aspect-ratio? true, :media-asset-ids #{#uuid "d25775f3-c8e4-44f2-86f8-fc69d0613479"}, :image-aspect-ratio 2.0382281553398056, :image-position {:x 49.67155949735537, :y 49.691791553088}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/d25775f3-c8e4-44f2-86f8-fc69d0613479?pitch-bytes=2919983&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1.3144560838859791, :locked-aspect-ratio? false, :shadow {:active? true, :shadow-type :soft, :shadow-opacity 0.2}, :created-at 1725569105214}} [#uuid "eeda0d05-6ab8-442b-ba6d-26c49dd54bc8"]]}
+🚀 *A glimpse into Hope’s user experience!* 
+
+![image](https://github.com/user-attachments/assets/74f44782-de4a-4420-8f5c-eb5a5e3322d7)
+
+![image](https://github.com/user-attachments/assets/a5bca8cf-3d93-4dca-ab96-00c14bdaa13f)
+
+![image](https://github.com/user-attachments/assets/5b9eea5a-d802-41b4-8d04-3bf33957cc6b)
 
 ## 🛠️ How to Use the Code  
 
