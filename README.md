@@ -87,4 +87,4 @@ npm start
 Unlike traditional disaster reporting tools, **Hope decentralizes disaster response, empowers communities, and ensures accountability.** It bridges **AI and blockchain** to build a **trust-driven disaster relief ecosystem**.  
 
 ## 📜 License  
-This project is **open-source** under the **[MIT License]LICENSE**.  
+This project is **open-source** under the **[MIT License](LICENSE)**.  
