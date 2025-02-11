@@ -31,6 +31,8 @@ Hope integrates **AI, blockchain, and decentralized verification** to provide a 
 4️⃣ **AI-Powered Insights** → Real-time disaster information retrieval  
 5️⃣ **Fundraising & Aid Allocation** → Verified cases trigger donation campaigns  
 
+{:format :pointed-dict, :data [{#uuid "e33be7bc-6667-442e-8229-ccacb7a7ad2e" {:entity-type :block, :coords {:y-start 0.13544123023981064, :x-start 0.11963116007299206, :x-end 0.8798573583007537, :y-end 0.9602790740867497}, :original-aspect-ratio? true, :media-asset-ids #{#uuid "c9e6356f-81dc-4cf0-a969-dd711fc48359"}, :overlay-opacity 0, :filter {:sepia nil, :grayscale 100, :contrast 116, :brightness 110, :saturate 120, :hue-rotate nil}, :image-aspect-ratio 1.6385199240986716, :image-position {:x 50, :y 50}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/c9e6356f-81dc-4cf0-a969-dd711fc48359?pitch-bytes=1156165&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1, :locked-aspect-ratio? false, :overlay-color {:r 0, :g 0, :b 0, :a 1}, :created-at 1725541323349}} [#uuid "e33be7bc-6667-442e-8229-ccacb7a7ad2e"]]}
+
 📌 **Key Components:**  
 - **Frontend**: User-friendly interface for reporting and tracking disasters.  
 - **Backend**: Handles API requests, AI processing, and database management.  
