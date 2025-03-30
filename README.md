@@ -27,7 +27,8 @@ Hope integrates **AI, blockchain, and decentralized verification** to provide a 
 4️⃣ **AI-Powered Insights** → Real-time disaster information retrieval  
 5️⃣ **Fundraising & Aid Allocation** → Verified cases trigger donation campaigns  
 
-![image](https://github.com/user-attachments/assets/10974ef7-9c8f-46b7-95b9-820200f1228a)
+![image](https://github.com/user-attachments/assets/67d49e84-ce3c-466f-9d95-abbd57cef941)
+
 
  **Key Components:**  
 - **Frontend**: User-friendly interface for reporting and tracking disasters.  
