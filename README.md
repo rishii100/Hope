@@ -2,7 +2,12 @@
 
 **Hope** is a decentralized disaster reporting platform that leverages **blockchain, AI, and a volunteer-driven DAO** to ensure **trustworthy and efficient disaster response**. It incentivizes **accurate reporting** and facilitates **real-time fundraising** for affected communities.  
 
+##  Important Links:
 
+   - Video: [Video Demonstration Link](https://youtu.be/CV_0dmm7XNc) 
+
+   - Hosted Link: [Deployed Link](https://hope-hack-x.vercel.app/)
+     
 ##  Key Features  
 ✅ **Decentralized Reporting** – No central authority; anyone can report disasters.  
 ✅ **DAO Verification** – Community-driven validation ensures credibility.  
