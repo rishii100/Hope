@@ -4,7 +4,7 @@
 
 ##  Important Links:
 
-   - Video: [Video Demonstration Link](https://youtu.be/CV_0dmm7XNc) .
+   - Video: [Video Demonstration Link](https://youtu.be/CV_0dmm7XNc)
 
    - Hosted Link: [Deployed Link](https://hope-hack-x.vercel.app/)
      
